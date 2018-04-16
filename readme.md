@@ -1,0 +1,1 @@
+mongoimport -h localhost -d test -c logs --drop logs.bak.data
