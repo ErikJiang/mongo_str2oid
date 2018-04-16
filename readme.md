@@ -1,1 +1,2 @@
-mongoimport -h localhost -d test -c logs --drop logs.bak.data
+# mongo_str2oid
+mongodb stringID to ObjectId
